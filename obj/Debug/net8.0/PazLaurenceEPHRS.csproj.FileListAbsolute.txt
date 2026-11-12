@@ -1,0 +1,14 @@
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\bin\Debug\net8.0\PazLaurenceEPHRS.exe
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\bin\Debug\net8.0\PazLaurenceEPHRS.deps.json
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\bin\Debug\net8.0\PazLaurenceEPHRS.runtimeconfig.json
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\bin\Debug\net8.0\PazLaurenceEPHRS.dll
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\bin\Debug\net8.0\PazLaurenceEPHRS.pdb
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\PazLaurenceEPHRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\PazLaurenceEPHRS.AssemblyInfoInputs.cache
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\PazLaurenceEPHRS.AssemblyInfo.cs
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\PazLaurenceEPHRS.csproj.CoreCompileInputs.cache
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\PazLaurenceEPHRS.dll
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\refint\PazLaurenceEPHRS.dll
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\PazLaurenceEPHRS.pdb
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\PazLaurenceEPHRS.genruntimeconfig.cache
+C:\Users\Laurence Paz\Desktop\PazLaurenceEPHRS\obj\Debug\net8.0\ref\PazLaurenceEPHRS.dll
