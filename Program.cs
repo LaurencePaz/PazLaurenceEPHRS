@@ -31,7 +31,7 @@ namespace EmployeePayrollHRSystem
         static void Main(string[] args)
         {
             // Modify this line on both branches later to simulate a merge conflict
-            string appBanner = "=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ===";
+            string appBanner = "=== EPHRS PAYROLL SYSTEM - PAZ LAURENCE BRANCH ===";
 
             bool running = true;
             while (running)
@@ -389,3 +389,4 @@ namespace EmployeePayrollHRSystem
         }
     }
 }
+
