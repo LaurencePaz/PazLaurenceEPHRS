@@ -31,7 +31,7 @@ namespace EmployeePayrollHRSystem
         static void Main(string[] args)
         {
             // Modify this line on both branches later to simulate a merge conflict
-            string appBanner = "=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ===";
+            string appBanner = "=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM (MAIN) ===";
 
             bool running = true;
             while (running)
